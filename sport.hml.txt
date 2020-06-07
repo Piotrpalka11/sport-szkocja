@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pl-PL" dir="ltr">
+  <head>
+   <meta charset="UTF-8">
+   <title>SzKC</title>
+   <link rel="stylesheet" href="style.css">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+   <script type="text/javascript" src="galeria.js">    
+	</script>
+  </head>
+  <body style="background-color:#b2bec3;">
+
+    <div class="header">
+      <h2 class="logo">Nietypowe sporty szkockie</h2>
+      <input type="checkbox" id="chk">
+      <label for="chk" class="show-menu-button">
+      </label>
+
+  
+
+        <label for="chk" class="hide-menu-button">
+        </label>
+      </ul>
+    </div>
+
+      <div class="content">
+
+
+      <center>
+        <div class="archimedes">
+        <img src="logo.jpg" alt="">
+
+      </center>
+
+      <center>
+      <p>CABER TOSS	:<br>
+      <strong>Konkurencja ta polega na utrzymaniu pionowo, a nastêpnie rzuceniu d³ugiego pala lub k³ody. Zawodnik trzyma pal za wê¿szy koniec i balansuje nim, ¿eby nie upad³. Nastêpnie biegnie do przodu i wyrzuca pal tak, aby pal obróci³ siê o 180o i szerszy koniec upad³ na ziemiê. Dodatkowo wê¿szy koniec, który pocz¹tkowo trzyma³ atleta, powinien upaœæ jak najbli¿ej godziny 12., mierzonej wzglêdem kierunku biegu.Z tego wynika te¿ cel gry, bowiem nie liczy siê odleg³oœæ, ale "jakoœæ" rzutu. Trzyman¹ pionowo k³odê, opart¹ o bark, najpierw trzeba podnieœæ i jej nie upuœciæ, odpowiednio balansuj¹c. Nastêpnie rozpêdziæ siê i tak ni¹ rzuciæ, aby najpierw to górny koniec dotkn¹³ ziemi, a pal tak siê obróci³, by "dolny" koniec nie upad³ w stronê rzucaj¹cego. A do tego pal powinien le¿eæ idealnie na wprost zawodnika. Ca³oœæ wykonania oceniania jest przez sêdziów.</p>
+        <div class="archimedes">
+        <img src="obraz1.jpg" alt="sport">
+		<div class="row">
+		</div>
+        </center>
+        <p>"Nastêpn¹ czêsto rozgrywan¹ konkurencj¹ jest Scottish hammer throw, czyli rzut szkockim m³otem. M³ot ma postaæ kuli o wadze od 16 do 22 funtów umieszczonej na koñcu drzewca o d³ugoœci oko³o 4 stóp (1,2 metra). W zawodach chodzi o to by rzuciæ nim jak najdalej."
+ <center>
+        <div class="archimedes">       
+	   <img src="obraz2.jpg" alt="sport">
+        <p>Ostatni¹ dyscyplin¹ jest Weight over the bar, czyli rzut ciê¿arem ponad poprzeczk¹. Zawodnik staje pod porzeczk¹ zawieszon¹ na wysokoœci oko³o 2 metrów, chwyta ciê¿arek o wadze 56 funtów (nieco ponad 25 kg) i wyrzuca pionowo w górê staraj¹c siê przerzuciæ go ponad poprzeczk¹ tak by jej nie str¹ciæ. Jeœli mu siê uda, poprzeczka wêdruje jeszcze wy¿ej. Wygrywa ten, kto zdo³a przerzuci ciê¿ar nad poprzeczk¹ zawieszon¹ jak najwy¿ej.
+</p>
+ <center>
+        <div class="archimedes">       
+	   <img src="obraz3.jpg" alt="sport">
+
+
+
+      </div>
+
+
+    </body>
+</html>
